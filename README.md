@@ -10,12 +10,12 @@ Recopilación de los códigos trabajados para el Curso de Data Analysis de Risk 
 - Paso 4: Ejecutar en la terminal Anaconda Powershell Prompt
 
 
-python get-pip.py
+`python get-pip.py`
 
 ### Requerimientos
 
 Para recuperar los requerimientos de librerías se debe escribir en la terminal de Anaconda Powershell Prompt:
 
-pip list --format=freeze > requirements.txt
+`pip list --format=freeze > requirements.txt`
 
 ## Proyecto final
