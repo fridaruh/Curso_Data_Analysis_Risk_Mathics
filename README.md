@@ -4,7 +4,7 @@ Recopilación de los códigos trabajados para el Curso de Data Analysis de Risk 
 
 # Proyectos desarrollados en el curso
 
-1. [Funciones complejas](http://https://github.com/fridaruh/Curso_Data_Analysis_Risk_Mathics/blob/master/Funciones_lambda_y_ciclos_for.ipynb "Funciones complejas")
+1. [Funciones complejas](https://github.com/fridaruh/Curso_Data_Analysis_Risk_Mathics/blob/master/Funciones_lambda_y_ciclos_for.ipynb "Funciones complejas")
 
 
 ## Creación de un dashboard en streamlit
